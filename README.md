@@ -1,7 +1,7 @@
 # Court Advocate App
 ## Quick Start
 * **LOGIN:**
-  * Navigate to https://courtadvocate.app and enter the login credentials that were supplied to you.
+  * Navigate to [courtadvocate.app](https://courtadvocate.app) and enter the login credentials that were supplied to you.
   * Click the **Login** button.
 * **ENTER DOCKET:** 
   * Click the **Input Docket** button on the home view.
