@@ -1,11 +1,13 @@
 # Court Advocate App
 ## Quick Start
 * **LOGIN:**
-  * Navigate to https://courtadvocate.app and enter the login credentials that were supplied to you. Click the **Login** button.
+  * Navigate to https://courtadvocate.app and enter the login credentials that were supplied to you.
+  * Click the **Login** button.
 * **ENTER DOCKET:** 
   * Click the **Input Docket** button on the home view.
   * Enter as much information as you have about each case on the docket.
-  * Click the **Submit** button. Information will be saved and fields will be cleared allowing you to enter another docket item.
+  * Click the **Submit** button.
+  * Information will be saved and fields will be cleared allowing you to enter another docket item.
 * **VIEW THE DOCKET:**
   * Click the **Docket** button on the home view.
   * A list of available docket items (cases) will be given.
