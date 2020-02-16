@@ -1,5 +1,4 @@
 # Court Advocate App
----
 ## Quick Start
 * **LOGIN:**
   * Navigate to http://courtadvocate.app and enter the login credentials that were supplied to you. Click the **Login** button.
