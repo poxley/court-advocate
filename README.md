@@ -6,8 +6,7 @@
 * **ENTER DOCKET:** 
   * Click the **Input Docket** button on the home view.
   * Enter as much information as you have about each case on the docket.
-  * Click the **Submit** button.
-  * Information will be saved and fields will be cleared allowing you to enter another docket item.
+  * Click the **Submit** button. Information will be saved and fields will be cleared allowing you to enter another docket item.
 * **VIEW THE DOCKET:**
   * Click the **Docket** button on the home view.
   * A list of available docket items (cases) will be given.
@@ -23,7 +22,7 @@
   * In the **Petitioner** area, click the **Checklist** button to open the checklist for the petitioner/client.
 * **PETITIONER CHECKLIST**
   * Follow the steps in "VIEW A CASE" to open a petitoner checklist.
-  * Check or un-check items as necessary. Changes to the checklist are saved when the checklist is closed.
+  * Check or un-check items as necessary. Changes to the checklist are automatically saved when the checklist is closed.
 * **ADD A NOTE**
   * Follow the steps in "VIEW A CASE" to open a new note.
   * Enter a note in the large text field.
